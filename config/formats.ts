@@ -18,7 +18,17 @@ The column value will be ignored for repeat sections.
 */
 
 export const Formats: import('../sim/dex-formats').FormatList = [
-
+	{
+		section: "Project Low BST",
+	},
+	{
+		name: "First Wave",
+		mod: 'low1',
+		ruleset: ['Standard'],
+		banlist: ['Tera Blast'],
+	},
+];
+/*
 	// S/V Singles
 	///////////////////////////////////////////////////////////////////
 
@@ -6097,3 +6107,4 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ['HP Percentage Mod', 'Cancel Mod', 'Desync Clause Mod', 'Max Team Size = 24', 'Max Move Count = 24', 'Max Level = 9999', 'Default Level = 100'],
 	},
 ];
+*/
