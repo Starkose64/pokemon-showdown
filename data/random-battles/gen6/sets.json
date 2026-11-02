@@ -224,7 +224,7 @@
         ]
     },
     "nidoking": {
-        "level": 82,
+        "level": 81,
         "sets": [
             {
                 "role": "Wallbreaker",
@@ -1747,7 +1747,7 @@
         ]
     },
     "miltank": {
-        "level": 83,
+        "level": 84,
         "sets": [
             {
                 "role": "Bulky Attacker",
@@ -2551,7 +2551,7 @@
         ]
     },
     "seviper": {
-        "level": 92,
+        "level": 91,
         "sets": [
             {
                 "role": "Fast Attacker",
@@ -3273,7 +3273,7 @@
         ]
     },
     "bastiodon": {
-        "level": 92,
+        "level": 93,
         "sets": [
             {
                 "role": "Bulky Support",
@@ -3323,7 +3323,7 @@
         ]
     },
     "mothim": {
-        "level": 94,
+        "level": 95,
         "sets": [
             {
                 "role": "Setup Sweeper",
@@ -3421,7 +3421,7 @@
         ]
     },
     "lopunny": {
-        "level": 87,
+        "level": 86,
         "sets": [
             {
                 "role": "Wallbreaker",
@@ -3549,7 +3549,7 @@
         ]
     },
     "garchompmega": {
-        "level": 74,
+        "level": 75,
         "sets": [
             {
                 "role": "Bulky Support",
@@ -4548,7 +4548,7 @@
         ]
     },
     "simisear": {
-        "level": 89,
+        "level": 88,
         "sets": [
             {
                 "role": "Setup Sweeper",
@@ -5038,7 +5038,7 @@
         ]
     },
     "jellicent": {
-        "level": 86,
+        "level": 85,
         "sets": [
             {
                 "role": "Bulky Attacker",
@@ -5224,7 +5224,7 @@
         ]
     },
     "golurk": {
-        "level": 82,
+        "level": 83,
         "sets": [
             {
                 "role": "Wallbreaker",
@@ -5419,7 +5419,7 @@
         ]
     },
     "reshiram": {
-        "level": 74,
+        "level": 73,
         "sets": [
             {
                 "role": "Bulky Attacker",
@@ -5764,7 +5764,7 @@
         ]
     },
     "doublade": {
-        "level": 83,
+        "level": 82,
         "sets": [
             {
                 "role": "Bulky Setup",
@@ -5774,7 +5774,7 @@
         ]
     },
     "aegislash": {
-        "level": 77,
+        "level": 78,
         "sets": [
             {
                 "role": "Staller",

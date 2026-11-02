@@ -5564,7 +5564,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		num: 286,
 		name: "Breloom",
 		types: ["Grass", "Fighting"],
-		baseStats: { hp: 60, atk: 130, def: 80, spa: 60, spd: 60, spe: 70 },
+		baseStats: { hp: 70, atk: 130, def: 80, spa: 60, spd: 60, spe: 85 },
 		abilities: { 0: "Effect Spore", 1: "Poison Heal", H: "Technician" },
 		heightm: 1.2,
 		weightkg: 39.2,

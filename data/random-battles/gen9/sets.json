@@ -1914,7 +1914,7 @@
         ]
     },
     "swampert": {
-        "level": 82,
+        "level": 83,
         "sets": [
             {
                 "role": "Bulky Support",
@@ -5380,7 +5380,7 @@
         ]
     },
     "lycanrocmidnight": {
-        "level": 88,
+        "level": 89,
         "sets": [
             {
                 "role": "Fast Attacker",
@@ -7169,7 +7169,7 @@
         ]
     },
     "brutebonnet": {
-        "level": 79,
+        "level": 80,
         "sets": [
             {
                 "role": "Bulky Attacker",
@@ -7350,7 +7350,7 @@
         ]
     },
     "ironthorns": {
-        "level": 81,
+        "level": 82,
         "sets": [
             {
                 "role": "Fast Bulky Setup",
