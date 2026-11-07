@@ -22,10 +22,10 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		section: "Project Low BST",
 	},
 	{
-		name: "First Wave",
-		mod: 'low1',
+		name: "[Gen 9] First Wave",
+		mod: 'gen9',
 		ruleset: ['Standard'],
-		banlist: ['Tera Blast'],
+		banlist: ['Uber', 'AG', 'Tera Blast'],
 	},
 ];
 /*
